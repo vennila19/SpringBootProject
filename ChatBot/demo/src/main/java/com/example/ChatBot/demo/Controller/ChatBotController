@@ -1,0 +1,6 @@
+@RestController
+class ChatBotController{
+    ChatService chatService;
+    
+
+}
